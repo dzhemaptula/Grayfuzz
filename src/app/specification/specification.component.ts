@@ -8,7 +8,7 @@ import { Component, OnInit, Input } from '@angular/core';
 export class SpecificationComponent implements OnInit {
 
   @Input() name: string;
-
+  //test
   constructor() { }
 
   ngOnInit() {
